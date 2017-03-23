@@ -1,7 +1,6 @@
-# graphdb-free
-Docker Image for Ontotext GraphDB Free edition
+## Docker Image for Ontotext GraphDB Free edition
 
-Register on the Ontotext website for the GraphDB free edition. Download the standalone server version and save it in the same folder as the docker file. Build the image and start using !
+Register on the Ontotext website for the GraphDB free edition. Download the standalone server version and save it in the same folder as the Dockerfile. Build the image and start using !
 
 #### BUILD THE IMAGE . 
 ```docker build -t graphdb-free .```
