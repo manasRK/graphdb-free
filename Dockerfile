@@ -1,5 +1,7 @@
 FROM openjdk:8-jdk
 
+LABEL maintainer "Manas Ranjan Kar <manasrkar91@gmail.com>"
+
 # Build time arguments
 ARG version=8.0.4
 ARG edition=free
